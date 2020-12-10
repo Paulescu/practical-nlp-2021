@@ -1,4 +1,13 @@
-# Build and deploy deep learning NLP models
+# Titles
+- Build and deploy  Natural Language Processing deep-learning models
+- Practical Natural Language Processing: from development to deployment.
+    - fastest path to building real-world solutions using NLP
+    
+## Target audience
+
+- Data scientists and software engineers of all levels who want to become productive
+NLP engineers in the industry.
+
 
 ## Introduction
 
@@ -69,8 +78,8 @@ in any of these 2 frameworks.
 ### 2. Build and deploy a production ready sentiment analyzer as a REST API
 
 - [ ] Plan of attack
-- [ ] Train model 1: Bag-of-words with learned embeddings.
-    https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html
+- [x] Train model 1: Bag-of-words with learned embeddings.
+    - [Pending to add logging of embeddings with Tensorboard](https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html)
 - [ ] Train model 2: Bag-of-words with GloVe embeddings.
 - [ ] Train model 3: CNN with GloVe embeddings
 - [ ] Train model 4: Dense network with BERT sentence embeddings as features

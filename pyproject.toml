@@ -6,7 +6,6 @@ authors = ["Pau <plabartabajo@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-tensorflow = "^2.3.1"
 torch = "^1.7.0"
 sklearn = "^0.0"
 fastapi = "^0.62.0"
@@ -16,6 +15,7 @@ transformers = "^4.0.0"
 pandas = "^1.1.4"
 spacy = "^2.3.4"
 tqdm = "^4.54.1"
+tensorboard = "^2.4.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
