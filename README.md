@@ -80,6 +80,9 @@ in any of these 2 frameworks.
 
 - Big picture of the course
 
+- Challenges that DS and ML engineers face in the real-world:
+    - How can I move this prototype model from a Jupyter notebook into production?
+
 ### 1. [Optional] Review
 
 - What has happened in NLP in the last 10 years?
@@ -98,9 +101,13 @@ in any of these 2 frameworks.
     - animated gif showing the train loop, top-down approach.
 
 
-### 2. Build and deploy a production ready sentiment analyzer as a REST API
+### 2. [Project] Build and deploy an email/SMS spam detector
 
 - [ ] Plan of attack
+    - Tools we are going to use: poetry, git, Jupyter, code editor (PyCharm, VSCode...)
+    - Install necessary dependencies and build a model with Jupyter.
+    - 
+    
 - [x] Train model 1: Bag-of-words with learned embeddings.
     - [Pending to add logging of embeddings with Tensorboard](https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html)
 - [ ] Train model 2: Bag-of-words with GloVe embeddings.
