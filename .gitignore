@@ -1,7 +1,9 @@
 *.csv
+*.tsv
 .venv
 .idea/
 .ipynb_checkpoints/
 *.tar.gz
+*.zip
 *.txt
 .DS_Store

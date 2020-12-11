@@ -1,23 +1,42 @@
 # Titles
-- Build and deploy  Natural Language Processing deep-learning models
-- Practical Natural Language Processing: from development to deployment.
-    - fastest path to building real-world solutions using NLP
+
+- Build Natural Language Processing products with PyTorch, FastAPI and Docker.
+
+    - Build and deploy  Natural Language Processing deep-learning models
     
+    - Practical Natural Language Processing: from development to deployment.
+        - fastest path to building real-world solutions using NLP
+  
+
 ## Target audience
 
-- Data scientists and software engineers of all levels who want to become productive
-NLP engineers in the industry.
+- Beginner data scientists who have trained at least one neural network
+model in the past using Python PyTorch or TensorFlow.
+
+## Requirements
+- Comfortable in Python.
+- Basic knowledge of any Python deep-learning framework like PyTorch or Tensorflow.
 
 
 ## Introduction
 
-This course focuses on building NLP products, from training to deployment.
-Very practical course. At the end of this course you will be able 
-to develop and deploy production grade NLP based software, and hence become a
-productive NLP engineer.
+- Are you interested in building and shipping NLP solutions using deep-learning and software
+development best practices?
 
-    Businesses do not look for ML researchers to build prototypes in Jupyter notebooks.
-    A key to professional success for ML engineers is the ability to 
+- Do you want to become an NLP engineer, able to train and deploy NLP models
+using deep-learning?
+
+- Do you want to become a professional Natural Language Processing engineer?
+
+This course focuses on building NLP products, from training to deployment, using
+PyTorch, FastAPI and Docker.
+
+Very practical course. At the end of this course you will be able 
+to showcase a portfolio of production ready deep-learning models.
+
+
+Businesses do not look for ML researchers to build prototypes in Jupyter notebooks.
+A key to professional success for ML engineers is the ability to 
 
 Such profile is in high-demand in all industries.
 
@@ -56,6 +75,10 @@ in any of these 2 frameworks.
 
 
 ## Course outline: WIP
+
+### 0. Introduction
+
+- Big picture of the course
 
 ### 1. [Optional] Review
 
@@ -122,7 +145,7 @@ Topics:
 - [ ] [Custom dataset loading with torchtext](https://www.youtube.com/watch?v=0JOZt9xuRJM)
 - [ ] [Custom dataset loading with torchtext](https://github.com/AI-Core/tutorials/blob/master/TorchText/torchtext_intro.ipynb)
 
-
+- [ ] [TorchServe](https://github.com/pytorch/serve/blob/master/README.md#serve-a-model)
 
 
 
