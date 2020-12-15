@@ -227,7 +227,7 @@ It is too ambitious.
         - [x] Model 3: CNN for text
         - [ ] Model 4: [Exercise]: CNN for text with word2vec embeddings
         - [ ] Model 5: DNN with sentence embeddings from BERT.
-        - [ ] Model 6: Fine-tuning BERT.
+        - [x] Model 6: Fine-tuning BERT.
         - [Exercise] Build an Amazon review classifier.
     
     - Project 2: Build a newspaper article summarizer
