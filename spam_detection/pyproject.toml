@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "spam_detection"
+version = "0.1.0"
+description = ""
+authors = ["Pau <plabartabajo@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+torch = "^1.7.0"
+pandas = "^1.1.5"
+sklearn = "^0.0"
+spacy = "^2.3.4"
+torchtext = "^0.8.0"
+tensorboard = "^2.4.0"
+tqdm = "^4.54.1"
+transformers = "^4.0.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+jupyter = "^1.0.0"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
