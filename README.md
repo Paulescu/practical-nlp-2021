@@ -187,6 +187,9 @@ Topics:
 ## Devs/Enginnering blogs
 - [ ] [Josh Comeau](https://www.joshwcomeau.com/effective-portfolio/)
 
+## Examples on-line teaching videos
+- https://www.youtube.com/watch?v=qFJeN9V1ZsI
+
 ------
 # Backlog
 
@@ -222,6 +225,7 @@ It is too ambitious.
     - [Review] Crash course on how to train a deep-learning model for NLP with PyTorch
     - Project 1: Build an SMS spam detector [text classification]
         - The dataset: [Enron dataset](http://www2.aueb.gr/users/ion/data/enron-spam/)
+          or [this](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
         - [x] Model 1: bag-of-words model
         - [x] Model 2: bag-of-words model with word2vec embedd
         - [x] Model 3: CNN for text
@@ -232,7 +236,7 @@ It is too ambitious.
     
     - Project 2: Build a chatbot
         - [Colab tutorial](https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/cf54d584af1322e88020549223e907dc/chatbot_tutorial.ipynb#scrollTo=BHZnumM8IYsF)
-        - The dataset
+        - [The dataset](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
         - [ ] Model 1: seq2seq model
         - [ ] Model 2: seq2seq model with attention
         - [ ] Model 3: transformer
